@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/aniiita63550927" target="blank"><img src="https://img.shields.io/twitter/follow/aniiita63550927?logo=twitter&style=for-the-badge" alt="aniiita63550927" /></a> </p>
 
-- 🔭 I’m currently working on **Apilaravel_React**
+- 🔭 I’m currently working on **Angular**
 
-- 🌱 I’m currently learning **React,Laravel,Php**
+- 🌱 I’m currently learning **React, aravel, Spring, Angular**
 
-- 👯 I’m looking to collaborate on **Js**
+- 👯 I’m looking to collaborate on **React Js**
 
-- 🤝 I’m looking for help with **React**
+- 🤝 I’m looking for help with **Angular**
 
 - 👨‍💻 All of my projects are available at [https://antaal.github.io/MyPortofolio/](https://antaal.github.io/MyPortofolio/)
 
